@@ -1,0 +1,26 @@
+{
+  "java.project.sourcePaths": [
+    "Section3-Introduction",
+    "Section4-Methods",
+    "Section5-ControlFlow",
+    "Section6-Classes-OOP1",
+    "Section7-OOP2",
+    "Section8-Array_Boxing",
+    "Section9-Classes_Interfaces",
+    "Section10-JavaGenerics",
+    "Section11-Conventions_Packages",
+    "Section12-JavaCollections",
+    "Section13-JavaFX",
+    "Section14-Input_Output",
+    "Section15-Concurrency",
+    "Section16-LambdaExpressions",
+    "Section17-RegEx",
+    "Section18-Debugging_Testing",
+    "Section19-Databases",
+    "Section20-JavaNetworking",
+    "Section21-Java9_ModuleSystem",
+    "Section22-Java9-MigrateProjects",
+    "Section23-CourseRemaster"
+  ],
+  "editor.defaultFormatter": "redhat.java",
+}
