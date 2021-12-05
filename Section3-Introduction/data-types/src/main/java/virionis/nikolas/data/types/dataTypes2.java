@@ -1,4 +1,4 @@
-package datatypes;
+package virionis.nikolas.data.types;;
 
 public class dataTypes2 {
     public static void main(String[] args) {

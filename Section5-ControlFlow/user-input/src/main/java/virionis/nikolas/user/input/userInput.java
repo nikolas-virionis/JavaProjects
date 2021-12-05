@@ -1,4 +1,4 @@
-package userinput;
+package virionis.nikolas.user.input;
 import java.util.Scanner;
 public class userInput {
     public static void main(String[] args) {
